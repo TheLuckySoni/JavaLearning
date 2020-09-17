@@ -1,0 +1,9 @@
+package com.soni;
+
+public interface Ram {
+
+	void processing();
+
+	Integer size = 8;
+
+}
