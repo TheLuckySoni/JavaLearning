@@ -1,0 +1,10 @@
+package com.soni;
+
+public class Employee {
+	
+	private Integer empId;
+	private String name;
+	private Double salary;
+	
+
+}

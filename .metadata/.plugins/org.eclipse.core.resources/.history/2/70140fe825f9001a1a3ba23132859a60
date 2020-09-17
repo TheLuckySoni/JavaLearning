@@ -1,0 +1,9 @@
+package com.soni;
+
+public interface Harddisk {
+
+	void access();
+
+	private Integer price = 5000;
+
+}

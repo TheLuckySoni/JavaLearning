@@ -1,0 +1,8 @@
+package com.soni;
+
+public interface Harddisk {
+	
+	void access();
+	
+
+}

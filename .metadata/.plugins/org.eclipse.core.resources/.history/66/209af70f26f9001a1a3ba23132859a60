@@ -1,0 +1,5 @@
+package com.soni;
+
+public interface Ram {
+
+}

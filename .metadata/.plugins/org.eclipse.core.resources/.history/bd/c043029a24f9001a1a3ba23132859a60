@@ -1,0 +1,13 @@
+package com.soni;
+
+public class MainClass {
+
+	public static void main(String[] args) {
+		Employee e1 = new Employee();
+		System.out.println(e);
+		// System.out.println(e.getEmpSalary());
+		Employee e2= new Employee(101, "Riya", 50000.00);
+		
+	}
+
+}
