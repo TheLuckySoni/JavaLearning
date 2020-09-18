@@ -6,7 +6,7 @@ public class Employee {
 	// int ==> Integer
 	private String empName;
 	// String
-	private Double empSalary;
+	private double empSalary;
 	// double --> Double
 
 	public Employee(Integer empId, String empName, Double empSalary) {
@@ -16,7 +16,7 @@ public class Employee {
 		this.empSalary = empSalary;
 	}
 
-	public Employee() {
+	 Employee() {
 		// TODO Auto-generated constructor stub
 	}
 

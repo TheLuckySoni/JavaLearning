@@ -26,6 +26,7 @@ public class MainClass {
 
 		Harddisk h1 = new HDD();
 		h1.access();
+		System.out.println(h1.price);
 		Harddisk h2 = new SDD();
 		h2.access();
 
